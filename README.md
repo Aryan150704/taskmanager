@@ -7,8 +7,8 @@ A full-stack task management application with role-based access (Admin/Member) s
 - Frontend: HTML, CSS, Vanilla JS
 
 ## Live Demo
-- App: [(add Netlify link here after deployment)](https://kaleidoscopic-druid-362213.netlify.app/)
-- API: [(add Railway link here after deployment)](https://taskmanager-production-4906.up.railway.app/)
+- App: [Netlify](https://kaleidoscopic-druid-362213.netlify.app/)
+- API: [Railway](https://taskmanager-production-4906.up.railway.app/)
 
 ## Structure
 - /backend — Spring Boot REST API
