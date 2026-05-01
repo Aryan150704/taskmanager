@@ -1,6 +1,6 @@
 # Team Task Manager
 
-Full-stack task management app with role-based access (Admin/Member).
+A full-stack task management application with role-based access (Admin/Member) supporting secure authentication and project collaboration.
 
 ## Tech Stack
 - Backend: Spring Boot 3.4, PostgreSQL, JWT
