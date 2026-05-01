@@ -7,7 +7,7 @@ Full-stack task management app with role-based access (Admin/Member).
 - Frontend: HTML, CSS, Vanilla JS
 
 ## Live Demo
-- App: (add Netlify link here after deployment)
+- App: [(add Netlify link here after deployment)](https://kaleidoscopic-druid-362213.netlify.app/)
 - API: (add Railway link here after deployment)
 
 ## Structure
