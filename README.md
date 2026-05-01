@@ -6,7 +6,7 @@ A full-stack team task management application built with Spring Boot and vanilla
 
 ## 🚀 Live Demo
 
-- **Frontend:** [Netlify](https://your-netlify-url.netlify.app)
+- **Frontend:** [Netlify](https://kaleidoscopic-druid-362213.netlify.app/)
 - **Backend API:** [Railway](https://taskmanager-production-11c9.up.railway.app/api)
 
 ---
