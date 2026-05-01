@@ -229,4 +229,4 @@ const API_BASE = 'http://localhost:8080/api';
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the MIT License.
